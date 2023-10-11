@@ -8,3 +8,6 @@ by Muhammad Rifan Ikhlasul Ammal, 5009211138
 
 # View Python Code
 https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Sinyal%202_1D%20Convolution_5009211138.py
+
+# Commit Logs
+![image](https://github.com/muhammadrifan2828/tugas-sinyal-2/assets/144788893/3615bdd5-4c10-4eeb-a0f7-4ad90705faf9)
