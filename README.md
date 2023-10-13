@@ -34,14 +34,16 @@ Berikut ini adalah tugas lanjutan kuis
 ![image](https://github.com/muhammadrifan2828/tugas-sinyal-2/assets/144788893/e204383b-95f7-4e7f-9b07-41fdf9863c75)
 
 # Python code for 1a
-
+https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Lanjutan%20Kuis/1a.py
 # Python code for 1b
-
+https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Lanjutan%20Kuis/1b.py
 # Python code for 1c
-
+https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Lanjutan%20Kuis/1c.py
 # Python code for 2a
-
+https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Lanjutan%20Kuis/2a.py
 # Python code for 2b
-
+https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Lanjutan%20Kuis/2b.py
 # Python code for 2c MFCC
-
+https://github.com/muhammadrifan2828/tugas-sinyal-2/blob/main/Tugas%20Lanjutan%20Kuis/2c%20(MFCC).py
+# Lates Commit Logs
+![image](https://github.com/muhammadrifan2828/tugas-sinyal-2/assets/144788893/6d4c39e0-1980-4cc0-b04a-066566680bd0)
